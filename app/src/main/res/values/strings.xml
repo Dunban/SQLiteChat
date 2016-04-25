@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name:</string>
+    <string name="message">Message:</string>
+</resources>
